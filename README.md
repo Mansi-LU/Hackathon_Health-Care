@@ -1,2 +1,2 @@
 # Hackathon_Health-Care
-dataset link  ../input/breast-histopathology-images/
+dataset link  https://www.kaggle.com/paultimothymooney/breast-histopathology-images
